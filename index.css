@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(130, 197, 224);
+
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    background-color: rgb(72, 184, 228);
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+
+}
+
+.navigation {
+    text-align: center;
+}
+
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    line-height: 1.6;
+}
+.search {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: 900;
+    color: white;
+}
+
+table {
+    border: 1px solid rgb(238, 238, 244);
+    width: 650px;
+    margin: 0 auto;
+    padding-top: 10px;
+    
+}
+
+th {
+   /* border: 2px solid rgb(210, 217, 17); */
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 22px;
+   padding: 50px, 10px, 10px, 10px;
+
+}
+thead {
+   /* border: 2px solid rgb(210, 217, 17); */
+   padding: 50px, 10px, 10px, 10px;
+   
+}
+
+
+td {
+    border: 1px solid rgb(240, 240, 244);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: 400;
+    color: rgb(19, 15, 15);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.tak {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: 700;
+    color: rgb(72, 71, 71);
+}
